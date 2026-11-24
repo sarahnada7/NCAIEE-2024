@@ -4,9 +4,9 @@
 
 Official website of the **National Conference on Artificial Intelligence in Electrical Engineering (NCAIEE'2024)**, held on **13 November 2024** at **Ouzera Campus, Medea (Algeria)**.
 
-**Live site:** https://YOUR-USERNAME.github.io/ncaiee-2024/
 
-> Replace `YOUR-USERNAME` with your GitHub username once GitHub Pages is enabled.
+
+
 
 ## About
 
